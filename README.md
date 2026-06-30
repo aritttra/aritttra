@@ -1,5 +1,14 @@
 # 💫 About Me:
-Computer Science undergraduate with hands-on experience building full-stack web applications, machine learning pipelines, and NLP-driven tools. Proficient in JavaScript, Python, Java, and C/C++, with practical exposure to React.js, Node.js, FastAPI, and SQL/NoSQL databases. Skilled at independently designing, building, and deploying end-to-end projects, from data pipelines to production-ready web interfaces. Strong communicator seeking a software engineering internship/entry-level role to apply technical and problem-solving skills in a collaborative environment
+- 🎓 Computer Science undergraduate passionate about software engineering and building impactful technology.
+- 💻 Hands-on experience developing full-stack web applications, machine learning pipelines, and NLP-powered solutions.
+- 🚀 Proficient in **Python, JavaScript, Java, C, and C++**.
+- ⚛️ Experienced with **React.js, Next.js, Node.js, FastAPI**, and modern web development practices.
+- 🗄️ Familiar with **SQL, MongoDB, and NoSQL** databases.
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, Natural Language Processing, and Backend Development**.
+- 🛠️ Enjoy designing, developing, and deploying end-to-end applications—from backend APIs and data pipelines to responsive user interfaces.
+- 📚 Continuously improving my skills in **Data Structures & Algorithms, System Design, and Scalable Software Development**.
+- 🤝 Strong communicator who enjoys collaborating, learning, and solving real-world problems.
+- 🌱 Currently seeking **Software Engineering, Full-Stack Development, and AI/ML Internship** opportunities.
 
 
 ## 🌐 Socials:
