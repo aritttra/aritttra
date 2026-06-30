@@ -1,9 +1,6 @@
 # 💫 About Me:
 - 🎓 Computer Science undergraduate passionate about software engineering and building impactful technology.
 - 💻 Hands-on experience developing full-stack web applications, machine learning pipelines, and NLP-powered solutions.
-- 🚀 Proficient in **Python, JavaScript, Java, C, and C++**.
-- ⚛️ Experienced with **React.js, Next.js, Node.js, FastAPI**, and modern web development practices.
-- 🗄️ Familiar with **SQL, MongoDB, and NoSQL** databases.
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, Natural Language Processing, and Backend Development**.
 - 🛠️ Enjoy designing, developing, and deploying end-to-end applications—from backend APIs and data pipelines to responsive user interfaces.
 - 📚 Continuously improving my skills in **Data Structures & Algorithms, System Design, and Scalable Software Development**.
